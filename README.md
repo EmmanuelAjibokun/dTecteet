@@ -4,9 +4,9 @@ a webfusion lagos hackathon task
   A project that detects Near.js API, Ether.js API and other API calls in a source code.
 
 ### Links
-source code: https://near.social/mob.near/widget/WidgetSource?src=oraio.near/widget/dTecteet.index
-test site: https://near.social/oraio.near/widget/dTecteet.index
-  # Dependencies: 
+  source code: https://near.social/mob.near/widget/WidgetSource?src=oraio.near/widget/dTecteet.index
+  test site: https://near.social/oraio.near/widget/dTecteet.index
+  ### Dependencies: 
    - oraio.near/widget/dtecteet.ComponentSearch
    - oraio.near/widget/dTecteet.Result
    - oraio.near/widget/dTecteet.Docs
