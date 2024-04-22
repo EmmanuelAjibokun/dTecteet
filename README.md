@@ -7,6 +7,7 @@ a webfusion lagos hackathon task
   source code: https://near.social/mob.near/widget/WidgetSource?src=oraio.near/widget/dTecteet.index
   
   test site: https://near.social/oraio.near/widget/dTecteet.index
+  
   Congratulatory post: https://x.com/NEARDevHub/status/1730642152345026943
   ### Dependencies: 
    - oraio.near/widget/dtecteet.ComponentSearch
